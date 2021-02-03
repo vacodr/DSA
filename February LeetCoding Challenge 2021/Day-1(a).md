@@ -6,7 +6,6 @@ link: https://leetcode.com/problems/number-of-1-bits/
 Problem type : Easy
 ## Code
 ```java
-
 public int hammingWeight(int n) {
     int m = 0;
     int bit = 1;
