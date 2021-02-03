@@ -28,7 +28,7 @@ public class Solution {
         ListNode p=head;
         ListNode q= head;
         
-        
+       
         while(true){
             
             p= p.next;
