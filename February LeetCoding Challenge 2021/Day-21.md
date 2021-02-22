@@ -22,7 +22,7 @@ class Solution {
             else
                 Y /= 2;
         }
-
+        
         return ans + X - Y;
     }
 }
