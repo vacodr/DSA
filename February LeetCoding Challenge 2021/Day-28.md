@@ -7,7 +7,7 @@ FreqStack has two functions:
 * pop(), which removes and returns the most frequent element in the stack.
 * If there is a tie for most frequent element, the element closest to the top of the stack is removed and returned.
 
-Problem type: Medium
+Problem type: Hard
 
 Link: https://leetcode.com/problems/maximum-frequency-stack/
 ## Code
